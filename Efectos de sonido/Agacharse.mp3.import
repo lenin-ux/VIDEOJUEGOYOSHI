@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c4fus1c5tr6pr"
+path="res://.godot/imported/Agacharse.mp3-93b06c36c81766476cebb6c03652a47f.mp3str"
+
+[deps]
+
+source_file="res://MisRecursos/Efectos de sonido/Agacharse.mp3"
+dest_files=["res://.godot/imported/Agacharse.mp3-93b06c36c81766476cebb6c03652a47f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

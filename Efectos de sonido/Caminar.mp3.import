@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dceko5wq4quon"
+path="res://.godot/imported/Caminar.mp3-2cf7a81f352095410de917e0788fb5ec.mp3str"
+
+[deps]
+
+source_file="res://MisRecursos/Efectos de sonido/Caminar.mp3"
+dest_files=["res://.godot/imported/Caminar.mp3-2cf7a81f352095410de917e0788fb5ec.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
